@@ -48,8 +48,8 @@
     1) скомпилировать
     2) ./suspicious-scanner [your path]
     3) Пример выполнения.
-	
-	
+
+![Example](/example.png)
 
 Некоторые особенности:
 
